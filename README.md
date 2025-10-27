@@ -4,7 +4,7 @@ Projeto desenvolvido durante o curso de **HTML e CSS: responsividade com mobile-
 
 ## 🔗 Deploy
 
-Acesse o projeto online: [**AluraBook - Deploy**](SEU_LINK_DE_DEPLOY_AQUI)
+Acesse o projeto online: [**AluraBook - Deploy**](https://herculanaline.github.io/alurabook/)
 
 ## 🎯 Sobre o Projeto
 
@@ -62,7 +62,7 @@ alurabook/
 
 ## 📸 Preview
 
-*(Adicione aqui screenshots do projeto em diferentes dispositivos)*
+<img width="1837" height="928" alt="image" src="https://github.com/user-attachments/assets/0daf6530-1013-4544-a3fb-910c3ef7c7cf" />
 
 ## 🎓 Aprendizados
 
@@ -79,7 +79,7 @@ Este projeto me permitiu desenvolver e aprimorar habilidades em:
 **Hercúlana Line**
 
 - GitHub: [@herculanaline](https://github.com/herculanaline)
-- LinkedIn: [Seu LinkedIn](SEU_LINK_LINKEDIN_AQUI)
+- LinkedIn: [aline_herculano](https://www.linkedin.com/in/aline-herculano/)
 
 ## 📝 Licença
 
